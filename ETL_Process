@@ -1,1 +1,10 @@
+# ⚙️ ETL Process (SSIS)
+This section explains the ETL automation and star schema integration.
 
+📄 **Full Documentation:**  
+[View SSIS Report (PDF)](./SSIS%20Report.pdf)
+
+🧱 **Contents:**  
+- Flat File Connections (CSV, TXT, XML)  
+- Data Conversion & Sequence Container  
+- Stored Procedure UPSERT Logic  
