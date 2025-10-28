@@ -7,4 +7,4 @@ This section explains the ETL automation and star schema integration.
 🧱 **Contents:**  
 - Flat File Connections (CSV, TXT, XML)  
 - Data Conversion & Sequence Container  
-- Stored Procedure UPSERT Logic  
+- Stored Procedure UPSERT Logi
