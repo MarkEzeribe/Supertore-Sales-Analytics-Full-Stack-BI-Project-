@@ -20,8 +20,8 @@ This section highlights the analytical layer of the Superstore project — trans
 - Diversifying product offerings and targeting B2B customers can stabilize revenue across segments.
 
 
-**Tech Stack:**  
-- Power BI Desktop  
-- SQL Server (Data Source)  
-- Star Schema Data Model  
-- DAX Measures and Slicers  
+## Tech Stack  
+- **Power BI Desktop** – for building interactive dashboards and KPIs  
+- **SQL Server** – as the primary data source connected via DirectQuery also used for validation 
+- **DAX (Data Analysis Expressions)** – for KPI calculations (e.g., Profit Margin, YoY Growth)  
+- **Star Schema Model** – structured data warehouse design for optimized reporting 
