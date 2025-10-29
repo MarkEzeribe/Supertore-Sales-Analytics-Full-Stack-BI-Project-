@@ -2,7 +2,7 @@
 
 This section highlights the analytical layer of the Superstore project — transforming the cleaned data into dynamic visual insights using **Power BI**.
 
-📄 **Full Documentation:**  
+**Full Documentation:**  
 [Superstore Sales Report.pdf](https://github.com/user-attachments/files/23190912/Superstore.Sales.Report.pdf)
 
 **Dashboard KPIs Include:**  
