@@ -25,6 +25,13 @@ This project addresses two key challenges faced by SuperStore:
        - Evaluate profitability across customer segments  
        - Understand regional sales performance and growth trends  
        - Monitor sales and profit margins to guide sustainable business decisions
+
+## Tech Stack
+- SQL Server Management Studio (SSMS)
+- SQL Server Integration Services (SSIS)
+- Power BI Desktop
+- Excel 
+- T-SQL Stored Procedures
       
 ## Project Architecture
 The architecture follows a classic ETL pipeline design:  
@@ -100,12 +107,7 @@ https://github.com/user-attachments/files/23190912/Superstore.Sales.Report.pdf
 - **Demonstrated** the complete BI lifecycle using Microsoft technologies (SQL Server, SSIS, and Power BI).  
 
 
-## Tech Stack
-- SQL Server Management Studio (SSMS)
-- SQL Server Integration Services (SSIS)
-- Power BI Desktop
-- Excel 
-- T-SQL Stored Procedures
+
 
 ## Author
 
