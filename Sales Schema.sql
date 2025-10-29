@@ -24,7 +24,7 @@ GO
 CREATE SCHEMA Sales
 
 -----------------------
---Create Staging Table
+--Step 3: Create Staging Table
 ------------------------
 CREATE TABLE Sales.Staging
 (
@@ -52,7 +52,7 @@ CREATE TABLE Sales.Staging
 )
 
 -------------------------
---Create Geography Table
+--Step 4: Create Geography Table
 -------------------------
 CREATE TABLE Sales.[Geography]
 (
@@ -67,7 +67,7 @@ CREATE TABLE Sales.[Geography]
 )
 
 -------------------------
---Create Customer Table
+--Step 5: Create Customer Table
 -------------------------
 CREATE TABLE Sales.Customer
 (
@@ -80,7 +80,7 @@ CREATE TABLE Sales.Customer
 
 
 -----------------------
---Create Product Table
+--Step 6: Create Product Table
 ------------------------
 CREATE TABLE Sales.[Product]
 (
@@ -91,7 +91,7 @@ CREATE TABLE Sales.[Product]
 )
 
 --------------------------------
---Create ProductCategory Table
+--Step 7: Create ProductCategory Table
 --------------------------------
 CREATE TABLE Sales.ProductCategory
 (
@@ -102,7 +102,7 @@ CREATE TABLE Sales.ProductCategory
 )
 
 ------------------------------------
---Create ProductSubCategory Table
+--Step 8: Create ProductSubCategory Table
 ------------------------------------
 CREATE TABLE Sales.ProductSubCategory
 (
@@ -113,7 +113,7 @@ CREATE TABLE Sales.ProductSubCategory
 )
 
 -------------------------
---Create ShipMode Table
+--Step 9: Create ShipMode Table
 --------------------------
 CREATE TABLE Sales.ShipMode
 (
@@ -124,7 +124,7 @@ CREATE TABLE Sales.ShipMode
 )
 
 -----------------------
---Create Segment Table
+--Step 10: Create Segment Table
 ------------------------
 CREATE TABLE Sales.Segment
 (
@@ -135,7 +135,7 @@ CREATE TABLE Sales.Segment
 )
 
 -------------------------------------
---Create FactSalesOrderDetail Table
+--Step 11: Create FactSalesOrderDetail Table
 --------------------------------------
 CREATE TABLE Sales.FactSalesOrderDetail
 (
@@ -164,3 +164,4 @@ CREATE TABLE Sales.FactSalesOrderDetail
 ,	CONSTRAINT [FK_ProductCategory_ProductCategoryID]       FOREIGN KEY (ProductCategoryID)		REFERENCES Sales.ProductCategory(ProductCategoryID)
 ,	CONSTRAINT [FK_ProductSubCategory_ProductSubCategoryID] FOREIGN KEY (ProductSubCategoryID)	REFERENCES Sales.ProductSubCategory(ProductSubCategoryID)
 )
+
