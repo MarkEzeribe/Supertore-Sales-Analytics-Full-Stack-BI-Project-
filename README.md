@@ -31,7 +31,7 @@ The architecture follows a classic **ETL pipeline** design:
 data is ingested from multiple file types, standardized in SQL Server, modeled into star-schema tables,  
 and then visualized in Power BI.
 
-*More detailed process documentation is available in the [Sales Analytics Report.pdf](./Docs/Sales%20Analytics%20Report.pdf).*
+*More detailed process documentation is available in the [[Sales Analytics Report.pdf](./Docs/Sales%20Analytics%20Report.pdf).*](https://github.com/user-attachments/files/23190599/SSIS.Report.pdf)
 
 ---
 
