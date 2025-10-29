@@ -81,7 +81,7 @@ To provide clear, interactive insights that help management identify opportuniti
 
 ### Key Business Insights
 Summarized from the included report:  
-📄 **[Sales Analytics Report.pdf](./Docs/Sales%20Analytics%20Report.pdf)**
+https://github.com/user-attachments/files/23190912/Superstore.Sales.Report.pdf
 
 | KPI | Definition | Key Findings |
 |------|-------------|--------------|
