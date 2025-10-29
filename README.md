@@ -92,7 +92,12 @@ https://github.com/user-attachments/files/23190912/Superstore.Sales.Report.pdf
 | **Customer Segments** | Profitability by segment | Consumer segment drives most sales |
 
 
+## Results & Impact
 
+- **Built** a fully automated data integration and reporting system.  
+- **Achieved** 100% referential integrity across all tables through foreign key constraints.  
+- **Delivered** actionable, visual insights for business users through Power BI dashboards.  
+- **Demonstrated** the complete BI lifecycle using Microsoft technologies (SQL Server, SSIS, and Power BI).  
 
 
 ## Tech Stack
@@ -101,3 +106,11 @@ https://github.com/user-attachments/files/23190912/Superstore.Sales.Report.pdf
 - Power BI Desktop
 - Excel 
 - T-SQL Stored Procedures
+
+## Author
+
+**Mark Ezeribe**  
+[Connect on LinkedIn](https://linkedin.com/in/Mark-Ezeribe)  
+*Full-Stack Data Analyst ( SQL · SSIS · Power BI · ETL Automation )*  
+Markebube43@gmail.com
+
