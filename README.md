@@ -12,7 +12,7 @@ This project addresses two key challenges faced by SuperStore:
    - SuperStore receives sales data in CSV, TXT, and XML formats without a consistent loading process.  
    - This causes data type mismatches, duplicate or changed records, and slow reprocessing during refresh cycles.  
    - A repeatable SSIS pipeline was required to standardize these files into a unified staging table on each run, followed by incremental upserts into star schema tables (dimensions first, then fact).  
-   - The goal was to ensure clean, reliable, and up-to-date data for downstream Power BI analytics — improving data freshness, integrity, and operational reporting.
+   - The goal was to ensure clean, reliable, and up-to-date data for downstream Power BI analytics improving data freshness, integrity, and operational reporting.
 
 2. **Business Performance and Profitability**
    - SuperStore, a U.S. retailer specializing in furniture, office supplies, and technology, has achieved strong sales but continues to face challenges in profitability and customer retention.  
@@ -60,7 +60,7 @@ and then visualized in Power BI.
 
 
 ###  3. ETL (UPSERT Logic)
-- Incremental loads keep data synchronized between Staging and the main **Sales schema.  
+- Incremental loads keep data synchronized between Staging and the main Sales schema.  
 - The UPSERT process uses transactions, joins, and idempotent logic to safely handle new and changed records.  
 - Example stored procedure calls:
     - EXEC sp_Upsert_GeographyTable;
