@@ -18,6 +18,7 @@ This section highlights the analytical layer of the Superstore project — trans
 - Consumer sales dominate overall performance, signaling a strong retail focus.  
 - Underperforming regions and states could benefit from localized marketing and logistics improvements.  
 - Diversifying product offerings and targeting B2B customers can stabilize revenue across segments.
+<img width="1637" height="752" alt="Power bi model" src="https://github.com/user-attachments/assets/4eb5bf55-bff8-468a-9c74-d4194de4f782" />
 <img width="1408" height="717" alt="DashBoard" src="https://github.com/user-attachments/assets/2c8f7d12-130d-4a59-8b39-a5e8cf7f2289" />
 <img width="1302" height="737" alt="drill through" src="https://github.com/user-attachments/assets/cfaa34eb-d570-4a7a-a4b4-0cf4f4e1ddc3" />
 
